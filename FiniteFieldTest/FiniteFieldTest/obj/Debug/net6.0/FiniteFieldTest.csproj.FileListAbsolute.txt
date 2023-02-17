@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\bin\Debug\net6.0\FiniteFieldTest.exe
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\bin\Debug\net6.0\FiniteFieldTest.deps.json
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\bin\Debug\net6.0\FiniteFieldTest.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\bin\Debug\net6.0\FiniteFieldTest.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\bin\Debug\net6.0\FiniteFieldTest.pdb
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\refint\FiniteFieldTest.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.pdb
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\FiniteFieldTest.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\FiniteFieldTest\FiniteFieldTest\obj\Debug\net6.0\ref\FiniteFieldTest.dll

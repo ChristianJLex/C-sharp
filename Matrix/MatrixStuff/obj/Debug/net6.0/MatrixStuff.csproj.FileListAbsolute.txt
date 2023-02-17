@@ -1,0 +1,15 @@
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\bin\Debug\net6.0\MatrixStuff.exe
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\bin\Debug\net6.0\MatrixStuff.deps.json
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\bin\Debug\net6.0\MatrixStuff.runtimeconfig.json
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\bin\Debug\net6.0\MatrixStuff.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\bin\Debug\net6.0\MatrixStuff.pdb
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.csproj.AssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.AssemblyInfoInputs.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.AssemblyInfo.cs
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\refint\MatrixStuff.dll
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.pdb
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\MatrixStuff.genruntimeconfig.cache
+C:\Users\chris\OneDrive\Desktop\Cskarp\MatrixStuff\MatrixStuff\obj\Debug\net6.0\ref\MatrixStuff.dll
